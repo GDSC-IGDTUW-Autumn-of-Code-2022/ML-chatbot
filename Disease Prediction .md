@@ -1,0 +1,3 @@
+we have imported some puthon libraries like numpy, pandas, seaborn, and matplotlib.We have used kaggle dataset and imported on collab file in csv format.
+Also we have used two model Random Forest and Decision Tree to predict the accuracy of the model.Then we have applied forest model on testing data to find predictions.
+Predictions are alomost matching with the target data present in testing datset
